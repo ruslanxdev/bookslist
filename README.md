@@ -18,6 +18,7 @@
 - [x] [Современный учебник JavaScript. Часть вторая. Документ, события, интерфейсы](https://learn.javascript.ru/ui/) — Илья Кантор
 - [x] [Современный учебник JavaScript. Часть третья. Дополнительно](https://learn.javascript.ru/) — Илья Кантор
 - [x] [Выразительный JavaScript](https://karmazzin.gitbooks.io/eloquentjavascript_ru/) — Мариджн Хавербеке
+- [x] [Паттерны для масштабируемых JavaScript-приложений](http://largescalejs.ru/) — Эдди Османи
 - [ ] [Секреты JavaScript ниндзя](http://www.ozon.ru/context/detail/id/22421421/) — Джон Резиг, Беэр Бибо
 - [ ] [Сила JavaScript. 68 способов эффективного использования JS](http://www.ozon.ru/context/detail/id/20413530/) — Дэвид Херман
 - [ ] [JavaScript. Подробное руководство](https://www.ozon.ru/context/detail/id/3881091/) — Дэвид Флэнган
@@ -47,6 +48,10 @@
 ### Управление проектами
 
 - [ ] [Мифический человеко-месяц](https://www.ozon.ru/context/detail/id/83760/) — Фредерик Брукс
+- [ ] [Deadline. Роман об управлении проектами](https://www.ozon.ru/context/detail/id/7331278/) — Том Демарко
+- [ ] [Не работайте с м\*даками. И что делать, если они вокруг вас](https://www.ozon.ru/context/detail/id/32691405/) — Роберт И. Саттон
+- [ ] [Как пасти котов. Наставление для программистов, руководящих другими программистами](https://www.ozon.ru/context/detail/id/2409500/) — Дж. Ханк Рейнвотер
+- [ ] [45 татуировок менеджера](http://www.ozon.ru/context/detail/id/23737592/) — Максим Батырев
 
 ## Философия
 
