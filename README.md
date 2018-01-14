@@ -19,6 +19,7 @@
 - [x] [Современный учебник JavaScript. Часть третья. Дополнительно](https://learn.javascript.ru/) — Илья Кантор
 - [x] [Выразительный JavaScript](https://karmazzin.gitbooks.io/eloquentjavascript_ru/) — Мариджн Хавербеке
 - [x] [Паттерны для масштабируемых JavaScript-приложений](http://largescalejs.ru/) — Эдди Османи
+- [ ] [Node Hero](https://github.com/devSchacht/translations/tree/master/node-hero) — RisingStack (пер. devSchacht)
 - [ ] [Секреты JavaScript ниндзя](http://www.ozon.ru/context/detail/id/22421421/) — Джон Резиг, Беэр Бибо
 - [ ] [Сила JavaScript. 68 способов эффективного использования JS](http://www.ozon.ru/context/detail/id/20413530/) — Дэвид Херман
 - [ ] [JavaScript. Подробное руководство](https://www.ozon.ru/context/detail/id/3881091/) — Дэвид Флэнган
@@ -30,13 +31,9 @@
 
 - [ ] [Договориться можно обо всем! Как добиваться максимума в любых переговорах](https://www.ozon.ru/context/detail/id/5707417/) — Гэвин Кеннеди
 
-### Психология личности
+### Рациональное мышление
 
-- [x] [Глубинная психология и новая этика](https://www.ozon.ru/context/detail/id/4189470/) — Эрих Нойманн
-
-### Социальная психология
-
-- [x] [Искусство любить](https://www.ozon.ru/context/detail/id/27577856/) — Эрих Фромм
+- [ ] [Гарри Поттер и методы рационального мышления](http://hpmor.ru) — Элиезер Юдковски
 
 ## Управление
 
@@ -49,18 +46,6 @@
 
 - [ ] [Мифический человеко-месяц](https://www.ozon.ru/context/detail/id/83760/) — Фредерик Брукс
 - [x] [Deadline. Роман об управлении проектами](https://www.ozon.ru/context/detail/id/7331278/) — Том Демарко
-- [ ] [Не работайте с м\*даками. И что делать, если они вокруг вас](https://www.ozon.ru/context/detail/id/32691405/) — Роберт И. Саттон
+- [x] [Не работайте с м\*даками. И что делать, если они вокруг вас](https://www.ozon.ru/context/detail/id/32691405/) — Роберт И. Саттон
 - [ ] [Как пасти котов. Наставление для программистов, руководящих другими программистами](https://www.ozon.ru/context/detail/id/2409500/) — Дж. Ханк Рейнвотер
 - [ ] [45 татуировок менеджера](http://www.ozon.ru/context/detail/id/23737592/) — Максим Батырев
-
-## Философия
-
-### Метафизика
-
-- [x] [Афоризмы житейской мудрости](https://www.ozon.ru/context/detail/id/7609227/) — Артур Шопенгауэр
-
-## Художественная литература
-
-### Фэнтези
-
-- [ ] [Гарри Поттер и методы рационального мышления](http://hpmor.ru) — Элиезер Юдковски
